@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthias Mende</h1>
-<h3 align="center">A passionate founder, working with epic developers from Planet Earth</h3>
+<h3 align="center">A passionate creator who enjoys building cool things </h3>
 
 <p align="left"> <a href="https://twitter.com/mendematthias" target="blank"><img src="https://img.shields.io/twitter/follow/mendematthias?logo=twitter&style=for-the-badge" alt="mendematthias" /></a> </p>
 
